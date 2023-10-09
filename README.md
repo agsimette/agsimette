@@ -35,6 +35,8 @@ https://github.com/agsimette/power_factor.git
 
 ### Exemplos com Glue e Athena
 
+Neste exemplo trabalhei com banco de dados vendas para gerar o ***datalake***.
+
 ![job_vendas](https://github.com/agsimette/agsimette/assets/46404433/29884313-70a4-43e4-9d1c-6047bfd345ce)
 
 ##
