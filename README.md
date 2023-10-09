@@ -1,6 +1,6 @@
 ### Olá sou Agnelo Simette
 
-Estou em processo de qualificação para ***Engenharia de Dados***
+Qualificação para ***Engenharia de Dados***
 
 ### 🖥️ Atualmente mais focado em:
 <div display="inline">
@@ -20,7 +20,22 @@ Estou em processo de qualificação para ***Engenharia de Dados***
   &nbsp;&nbsp;<img width="50" height="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />&nbsp;&nbsp;
 <div>
+  
+##
 
+### Exemplos com Glue e Athena
+
+![job_vendas](https://github.com/agsimette/agsimette/assets/46404433/29884313-70a4-43e4-9d1c-6047bfd345ce)
+
+##
+
+![Model1](https://github.com/agsimette/agsimette/assets/46404433/f328d1b7-ccca-4898-9c08-1cc3e4e109fd)
+
+![Model2](https://github.com/agsimette/agsimette/assets/46404433/23373f40-b16e-4336-a9c8-074ca4c04086)
+
+![Model7](https://github.com/agsimette/agsimette/assets/46404433/298aefd1-90b8-4366-830d-0906db31b38e)
+
+  
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/agnelo-simette-49b8486b">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
