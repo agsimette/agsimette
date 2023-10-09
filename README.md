@@ -26,7 +26,10 @@ Qualificação para ***Engenharia de Dados***
 ### Três projetos com Jupiter para gerar dados para datalake
 
 https://github.com/agsimette/hydraulic_pressure.git
+##
 https://github.com/agsimette/temperature.git
+##
+https://github.com/agsimette/power_factor.git
 
 ##
 
