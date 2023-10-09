@@ -1,6 +1,6 @@
 ### Olá sou Agnelo Simette
 
-Qualificação para ***Engenharia de Dados***
+Qualificação para ***Engenheiro de Dados***
 
 ### 🖥️ Atualmente mais focado em:
 <div display="inline">
