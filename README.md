@@ -1,6 +1,9 @@
 ### Olá sou Agnelo Simette
 
-Qualificação para ***Engenheiro de Dados***
+💼 **Experiência Profissional:**
+   - **Gerência de Projetos:** Coordenando projetos desde a concepção até a entrega, aplicando metodologias ágeis para assegurar resultados eficientes e alinhados aos objetivos do negócio.
+   
+   - **Engenharia de Dados:** Projetando e implementando soluções robustas de engenharia de dados, explorando ferramentas modernas e práticas para garantir a eficácia na manipulação e análise de grandes conjuntos de dados.
 
 ### 🖥️ Atualmente mais focado em:
 <div display="inline">
