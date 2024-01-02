@@ -1,11 +1,11 @@
-### Olá sou Agnelo Simette
+### Hello, I'm Agnelo Simette
 
-💼 **Experiência Profissional:**
-   - **Gerência de Projetos:** Coordenando projetos desde a concepção até a entrega, aplicando metodologias ágeis para assegurar resultados eficientes e alinhados aos objetivos do negócio.
+💼 **Professional experience:**
+   - **Project Management:** Coordinating projects from conception to delivery, applying agile methodologies to ensure efficient results aligned with business objectives.
    
-   - **Engenharia de Dados:** Projetando e implementando soluções robustas de engenharia de dados, explorando ferramentas modernas e práticas para garantir a eficácia na manipulação e análise de grandes conjuntos de dados.
+   - **Data Engineering:** Designing and implementing robust data engineering solutions, exploring modern and practical tools to ensure effectiveness in manipulating and analyzing large data sets.
 
-### 🖥️ Atualmente mais focado em:
+### 🖥️ Currently more focused on:
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
@@ -26,7 +26,7 @@
   
 ##
 
-### Três projetos com Jupiter para gerar dados para datalake
+### Three projects with Jupiter to generate data for datalake
 
 https://github.com/agsimette/hydraulic_pressure.git
 ##
@@ -36,9 +36,9 @@ https://github.com/agsimette/power_factor.git
 
 ##
 
-### Exemplos com Glue e Athena
+### Examples with Glue and Athena
 
-Neste exemplo criei o jobvendas para gerar o ***datalake***.
+In this example, I created jobvendas to generate ***datalake***.
 
 ![job_vendas](https://github.com/agsimette/agsimette/assets/46404433/29884313-70a4-43e4-9d1c-6047bfd345ce)
 
@@ -51,7 +51,7 @@ Neste exemplo criei o jobvendas para gerar o ***datalake***.
 ![Model7](https://github.com/agsimette/agsimette/assets/46404433/298aefd1-90b8-4366-830d-0906db31b38e)
 
   
-### Você também me encontra em:
+### You can also find me at:
 &nbsp;<a href="https://www.linkedin.com/in/agnelo-simette-49b8486b">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
