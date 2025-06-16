@@ -3,12 +3,11 @@
 💼 **Professional experience:**
    - **Project Management:** Coordinating projects from conception to delivery, applying agile methodologies to ensure efficient results aligned with business objectives.
    
-   - **Data Engineering:** Designing and implementing robust data engineering solutions, exploring modern and practical tools to ensure effectiveness in manipulating and analyzing large data sets.
+   - **Requirements Analyst or Business Analyst in teams:** Specialist in identifying business needs, documenting requirements and monitoring the entire software development cycle.
 
 ### 🖥️ Currently more focused on:
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
