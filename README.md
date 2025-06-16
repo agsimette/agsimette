@@ -35,20 +35,6 @@ https://github.com/agsimette/power_factor.git
 
 ##
 
-### Examples with Glue and Athena
-
-In this example, I created jobvendas to generate ***datalake***.
-
-![job_vendas](https://github.com/agsimette/agsimette/assets/46404433/29884313-70a4-43e4-9d1c-6047bfd345ce)
-
-##
-
-![Model1](https://github.com/agsimette/agsimette/assets/46404433/f328d1b7-ccca-4898-9c08-1cc3e4e109fd)
-
-![Model2](https://github.com/agsimette/agsimette/assets/46404433/23373f40-b16e-4336-a9c8-074ca4c04086)
-
-![Model7](https://github.com/agsimette/agsimette/assets/46404433/298aefd1-90b8-4366-830d-0906db31b38e)
-
   
 ### You can also find me at:
 &nbsp;<a href="https://www.linkedin.com/in/agnelo-simette-49b8486b">
